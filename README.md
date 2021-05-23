@@ -38,8 +38,8 @@ Android Studio est un environnement de développement pour développer des appli
 
 ## Auteurs
 * **NAJMI Mehdi** (https://github.com/Najmi19)
-* j'ai aussi cree une autre application d'one pièces que je représenter dessus les personnages de l'équipage de chapeau de paille avec leurs prims
-lien de l'app "https://github.com/Najmi19/OnePiece"
+* j'ai aussi cree une autre application d'one pièces que je représenter dessus les personnages de l'équipage de chapeau de paille avec leurs prims.
+* Lien de l'app "https://github.com/Najmi19/OnePiece"
 
 ## Remerciement
 
