@@ -50,7 +50,8 @@ _exemple :_
 **Dernière version :** 5.1
 Liste des versions : [Cliquer pour afficher](https://github.com/your/project-name/tags)
 _(pour le lien mettez simplement l'URL de votre projets suivi de ``/tags``)_
-![](https://media.discordapp.net/attachments/806547037629841450/845979597945962596/Screenshot_20210523-124413_Covid19.jpg?width=386&height=793)
+![](https://media.discordapp.net/attachments/806547037629841450/845979597945962596/Screenshot_20210523-124413_Covid19.jpg?width=261&height=586)
+
 ## Auteurs
 Listez le(s) auteur(s) du projet ici !
 * **Jhon doe** _alias_ [@outout14](https://github.com/outout14)
