@@ -10,7 +10,7 @@ Dans cette application "Covid19" on a une liste qu'est affiché avec une Recycle
 
 ## A savoir
 
-Mon projet se trouve sous la branche qui se nomme "Mehdi" et non pas "main"
+Mon projet se trouve sous la branche qui se nomme "mehdi" et non pas "main"
 
 
 ## Démarrage
