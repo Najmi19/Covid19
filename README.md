@@ -31,8 +31,6 @@ Et là on voit bien qu'on est en mode avion et on a toujours les informations to
 
 ![](https://media.discordapp.net/attachments/707620096599654420/846055175655653426/Screenshot_20210523-174624_Covid19.jpg?width=261&height=586)
 
-!! Pour accéder au détail, j'ai remarqué qu'il faut cliquer un peu en dessous du nom du pays.
-
 ## Fabriqué avec
 
 Android Studio est un environnement de développement pour développer des applications mobiles Android.
