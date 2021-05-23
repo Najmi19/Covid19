@@ -8,6 +8,10 @@ Covid19 est une application créée par Mehdi Najmi, c'est un app de suivi des c
 ## Pour commencer
 Dans cette application "Covid19" on a une liste qu'est affiché avec une Recycler View un page de une page de détait, il y a aussi les données qu'ils sont stockés en cache ainsi une suit API Covid 19 sur ce lien https://api.covid19api.com/countries
 
+## A savoir
+
+Mon projet se trouve sous la branche qui se nomme "Mehdi" et non pas "main"
+
 
 ## Démarrage
 
@@ -27,6 +31,7 @@ Et là on voit bien qu'on est en mode avion et on a toujours les informations to
 
 ![](https://media.discordapp.net/attachments/806547037629841450/845988232214740992/Screenshot_20210523-132928_Covid19.jpg?width=261&height=586)
 
+!! Pour accéder au détail, j'ai remarqué qu'il faut cliquer un peu en dessous du nom du pays.
 
 ## Fabriqué avec
 
