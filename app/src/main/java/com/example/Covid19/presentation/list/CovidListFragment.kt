@@ -15,7 +15,6 @@ package com.example.Covid19.presentation.list
     import retrofit2.Callback
     import retrofit2.Response
 
-
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
  */
@@ -24,26 +23,19 @@ class CovidListFragment : Fragment() {
     private lateinit var recyclerView: RecyclerView
     private val adapter = CovidAdapter(listOf() , ::onClickedCovid)
 
-
-
     override fun onCreateView(
             inflater: LayoutInflater, container: ViewGroup?,
             savedInstanceState: Bundle?
     ): View? {
-        // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_covid_list, container, false)
     }
-
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         recyclerView = view.findViewById(R.id.covid_recyclerview)
-
         recyclerView.apply {
             adapter = this@CovidListFragment.adapter
             layoutManager = LinearLayoutManager(context)
         }
-
-
 
         Singletons.covidApi.getCovidList().enqueue(object : Callback<List<CovidListResponse>> {
 
@@ -61,7 +53,7 @@ class CovidListFragment : Fragment() {
     }
     private fun onClickedCovid(covidResponse: CovidListResponse) {
         findNavController().navigate(R.id.navigateToCovidDetailFragment, bundleOf(
-                "covidId" to covidResponse.Country
+                "covid" to covidResponse.Country
         ))
     }
 }

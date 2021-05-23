@@ -12,6 +12,5 @@ class Singletons {
             .build()
             .create(CovidApi::class.java)
     }
-
 }
 
