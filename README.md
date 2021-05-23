@@ -10,7 +10,7 @@ Dans cette application "Covid19" on a une liste qu'est affiché avec une Recycle
 
 ## A savoir
 
-Mon projet se trouve sous la branche qui se nomme "master" et pas "mehdi" ni "main"
+la dérniere version de mon projet se trouve sous la branche qui se nomme "master" et pas "mehdi" ni "main"
 
 
 ## Démarrage
@@ -38,6 +38,8 @@ Android Studio est un environnement de développement pour développer des appli
 
 ## Auteurs
 * **NAJMI Mehdi** (https://github.com/Najmi19)
+* j'ai aussi cree une autre application d'one pièces que je représenter dessus les personnages de l'équipage de chapeau de paille avec leurs prims
+lien de l'app "https://github.com/Najmi19/OnePiece"
 
 ## Remerciement
 
