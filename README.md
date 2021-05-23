@@ -17,19 +17,19 @@ Mon projet se trouve sous la branche qui se nomme "master" et pas "mehdi" ni "ma
 
 Quand on démarre l'application on voit la liste de tous les pays
 
-![](https://media.discordapp.net/attachments/707620096599654420/846055170962096228/Screenshot_20210523-174430_Covid19.jpg?width=261&height=586)
+![](https://media.discordapp.net/attachments/707620096599654420/846060810710548511/Screenshot_20210523-182241_Covid19.jpg?width=261&height=586)
 
-Ici, on a le détail pour un pays : Luxembourg avec Toutes les informations
+Ici, on a le détail pour un pays : Germany avec Toutes les informations
 
-![](https://media.discordapp.net/attachments/707620096599654420/846055175944929290/Screenshot_20210523-174524_Covid19.jpg?width=261&height=586)
+![](https://media.discordapp.net/attachments/707620096599654420/846060810919739482/Screenshot_20210523-181907_Covid19.jpg?width=261&height=586)
 
-Aussi la pour Tunisia
+Aussi la pour Cameroon
 
-![](https://media.discordapp.net/attachments/707620096599654420/846055176267366410/Screenshot_20210523-174517_Covid19.jpg?width=261&height=586)
+![](https://media.discordapp.net/attachments/707620096599654420/846060523366776832/Screenshot_20210523-181855_Covid19.jpg?width=261&height=586)
 
 Et là on voit bien qu'on est en mode avion et on a toujours les informations tout ça a causse de la cache cree
 
-![](https://media.discordapp.net/attachments/707620096599654420/846055175655653426/Screenshot_20210523-174624_Covid19.jpg?width=261&height=586)
+![](https://media.discordapp.net/attachments/707620096599654420/846060810484449280/Screenshot_20210523-182254_Covid19.jpg?width=261&height=586)
 
 ## Fabriqué avec
 
