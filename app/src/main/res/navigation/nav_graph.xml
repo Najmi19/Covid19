@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/CovidListFragment">
+
+    <fragment
+        android:id="@+id/CovidListFragment"
+        android:name="com.example.Covid19.presentation.list.CovidListFragment"
+        android:label="@string/first_fragment_label"
+        tools:layout="@layout/fragment_covid_list">
+
+        <action
+            android:id="@+id/navigateToCovidDetailFragment"
+            app:destination="@id/CovidDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/CovidDetailFragment"
+        android:name="com.example.Covid19.presentation.detail.CovidDetailFragment"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_covid_detail">
+
+        <argument
+            android:name="covidId"
+            app:argType="string"
+            />
+
+        <action
+            android:id="@+id/navigateToCovidListFragment"
+            app:destination="@id/CovidListFragment" />
+    </fragment>
+</navigation>
