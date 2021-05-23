@@ -1,4 +1,4 @@
-package com.example.Covid19.data
+package com.example.Covid19.image
 
 import com.example.Covid19.presentation.api.CovidListResponse
 

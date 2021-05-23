@@ -19,7 +19,6 @@ package com.example.Covid19.presentation.list
  * A simple [Fragment] subclass as the default destination in the navigation.
  */
 class CovidListFragment : Fragment() {
-
     private lateinit var recyclerView: RecyclerView
     private val adapter = CovidAdapter(listOf() , ::onClickedCovid)
 
@@ -38,7 +37,6 @@ class CovidListFragment : Fragment() {
         }
 
         Singletons.covidApi.getCovidList().enqueue(object : Callback<List<CovidListResponse>> {
-
             override fun onFailure(call: Call<List<CovidListResponse>>, t: Throwable) {
             }
 
@@ -48,12 +46,11 @@ class CovidListFragment : Fragment() {
                     adapter.updateList(covidResponse)
                 }
             }
-
         })
     }
     private fun onClickedCovid(covidResponse: CovidListResponse) {
         findNavController().navigate(R.id.navigateToCovidDetailFragment, bundleOf(
-                "covid" to covidResponse.Country
-        ))
+                "covid" to covidResponse.Country)
+        )
     }
 }

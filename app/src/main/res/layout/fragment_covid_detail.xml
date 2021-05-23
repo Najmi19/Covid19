@@ -9,16 +9,16 @@
 
 
     <ImageView
-        android:layout_width="153dp"
+        android:layout_width="170dp"
         android:layout_height="68dp"
-        android:scaleType="centerInside"
+        android:layout_marginTop="4dp"
         android:contentDescription="@string/description"
+        android:scaleType="centerInside"
         android:src="@drawable/coronavirus"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="-1dp"
-        tools:layout_editor_absoluteY="1dp"
         tools:ignore="MissingConstraints" />
-
 
     <TextView
         android:id="@+id/covid_detail_country"
